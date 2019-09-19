@@ -31,6 +31,7 @@ def adding
   shipping_manifest["oil paintings"]
 
 end
+end
 
 def adding
   shipping_manifest = {
