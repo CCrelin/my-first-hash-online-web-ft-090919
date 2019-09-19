@@ -28,7 +28,7 @@ def adding
                  }
                
   
-  shipping_manifest["oil paintings"]
+  shipping_manifest["oil paintings"] 
 
 end
 
