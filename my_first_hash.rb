@@ -44,5 +44,5 @@ def adding
 
 
 
-  shipping_manifest
+  shipping_manifest["oil paintings"]
 end
